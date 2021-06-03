@@ -7,7 +7,7 @@ _Hardware engineer with a knack for software testing. Passionate about sensing, 
 
 ## Education
 
-**Northeastern University, Boston MA** 
+**Northeastern University, Boston MA** <br>
 Master of Science in Electrical and Computer Engineering  _(2020 - 2021)_ <br>
   - Courses: Parallel processing, Computer architecture, Simulation and modeling, HW/SW co-design
   - Activities: IEEE Student Society
