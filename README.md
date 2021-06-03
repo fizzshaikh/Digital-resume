@@ -11,8 +11,10 @@ _Hardware engineer with a knack for software testing. Passionate about sensing, 
 Master of Science in Electrical and Computer Engineering
   - Courses: Parallel processing, Computer architecture, Simulation and modeling, HW/SW co-design
   - Activities: IEEE Student Society
+  
 Bachelor of Science in Computer Engineering
   - Courses: Digital design, Electronics, Circuit design
   - Activities: Students for the Exploration and Development of Space, Society of Women in Engineering
   - Honors: University Scholar (full-tuition merit scholarship)
 
+## Professional Experience 
