@@ -45,3 +45,27 @@ Photo-optics and Hardware; Berlin, Germany
   - Resolved persistent NEMA stepper motor communication - floating TX line failure
   - **_Technologies used:_** RS-232, Oscilloscope analysis, SPICE, Unix
 <br><br>
+
+## Research and Projects
+
+**Embedded Design Student Developer** @ [Environmental Sensors Lab](https://www.northeastern.edu/envsensorslab/) _(January 2017 - December 2020)_ <br>
+  - Designed electrical control system for an NSF funded trace-metal marine sampler
+  - Developed control flow integrating sensors and sampling process
+  - Designed algorithms for real-time data collection with object-oriented framework
+  - Built automatic test setup to validate operation of robotic sampler through depth profile in pressure tank
+  - **_Technologies used:_** Microcontrollers, C++, Visual Basic
+<br><br>
+
+**Northeastern Robotics Collaborative Design Team** @ [Robotics Collaborative](https://www.nasa.gov/press-release/langley/the-sky-is-no-longer-the-limit-for-10-university-teams-selected-to-compete-in-nasa) _(July 2018 - January 2019)_ <br>
+  - Designed low-power PCB with integrated microprocessorfor simulated Mars ice drill
+  - Researched an automatic control system based on SLAM path planning for navigation system 
+  - Wrote NASA NSPIRES call to research proposal with teamand won national NASA RASC-AL competition
+  - **_Technologies used:_** PCB design, schematic design, technical writing
+<br><br>
+
+### Published Research
+**"A Novel High-Resolution Trace Metal Clean Sampler for Stationary, Profiling, and Mobile Deployment"**
+  - _Mueller, Crusius, Agudelo, Shaikh_
+  - Accepted to 2018 IEEE Marine Robotics Conference in Kobe, Japan
+  - Presented at University of Antofagasta Marine Science Department in Chile
+
