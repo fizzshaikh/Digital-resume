@@ -68,4 +68,3 @@ Photo-optics and Hardware; Berlin, Germany
   - _Mueller, Crusius, Agudelo, Shaikh_
   - Accepted to 2018 IEEE Marine Robotics Conference in Kobe, Japan
   - Presented at University of Antofagasta Marine Science Department in Chile
-
