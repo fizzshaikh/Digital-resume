@@ -35,7 +35,7 @@ Energy Hardware and System Test; Palo Alto, CA
   - Found likely failure points in PCB design through accelerated lifetime testing
   - Recommended revised connector design
   - Automated high voltage charge and discharge reliability test platforms
-  - **_Technologies used:_** Python, C++, Visual Basic, 
+  - **_Technologies used:_** Python, C++, Visual Basic
 <br><br>
 
 **Electronics System Engineering Co-op** @ [SOPAT GmbH](https://sopat.de/en/) _(March 2018 - June 2018)_ <br>
